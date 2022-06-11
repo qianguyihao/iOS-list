@@ -1,6 +1,10 @@
 
 
+## 项目介绍
 
+iPhone、iPad等 iOS软件清单。正在不断完善中，努力做到最全，欢迎star。
+
+你也可以关注公众号「千古壹号」，学习更多技能。
 
 ## 一、常用软件
 
@@ -9,11 +13,9 @@
 - 即刻App
 
 
-
 ### 工作流
 
 - 快捷指令。
-
 
 ### 时间记录&习惯培养
 
@@ -21,15 +23,11 @@
 
 - 时间块 - 快速记录时间规划和日程安排。点击方块，搞定时间管理。
 
-
-
-
 ## 二、进阶软件
 
 ### 科学上网
 
 - Shadowrocket - 科学上网工具。软件安装连接：<https://github.com/j-proxy/iossos>
-
 
 ## 三、办公软件
 
@@ -62,9 +60,6 @@
 - [Pocket Casts](https://www.pocketcasts.com/) 有 iOS 和 Android客户端。
 
 
-
-
-
 ### 平台型播客客户端
 
 - [Apple Podcast](https://apps.apple.com/cn/app/apple-podcasts/id525463029)
@@ -73,12 +68,9 @@
 
 - [Spotify](https://www.spotify.com/)
 
-
 ## 七、生活
 
-
 ## 八、开发工具
-
 
 ### 网络抓包
 
