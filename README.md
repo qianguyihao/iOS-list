@@ -81,8 +81,11 @@ iPhone、iPad等 iOS软件清单。正在不断完善中，努力做到最全，
 
 ### 网络抓包
 
+- [Storm Sniffer](https://apps.apple.com/us/app/storm-sniffer-packet-capture/id1610958307)：Packet Capture。【荐】
+
 - thor - ios平台的抓包调试Http或Https协议的工具。相关文章：《[Thor三件套的详细讲解 - 知乎](https://zhuanlan.zhihu.com/p/91775490)》
 
 - Stream - iOS网络抓包的工具。
+
 
 - HttpCanary - Android网络抓包工具。
